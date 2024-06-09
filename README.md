@@ -1,6 +1,7 @@
 # FoodforAll
 Innovision Team 
 Contributions:
+
 Mokshitha:
 Played a significant role in the project's development, contributing substantially.
 Dedication and efforts were instrumental in shaping key components of the frontend, including the feedback form and main page.
