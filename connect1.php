@@ -8,7 +8,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $Phone = $_POST['phoneno'];
     $Address = $_POST['address'];
 
-    // Database connection
     $conn = new mysqli('localhost', 'root', '', 'food');
     if ($conn->connect_error) {
         echo "$conn->connect_error";
